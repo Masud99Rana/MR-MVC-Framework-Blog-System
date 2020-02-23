@@ -59,7 +59,7 @@ Basic understanding of the technologies that i have mentioned in "[Built With](#
 
 1. Clone the repo
 ```sh
-git remote add origin https://github.com/Masud99Rana/MR-MVC-Framework-_Blog_System.git
+git clone https://github.com/Masud99Rana/MR-MVC-Framework-Blog-System.git
 ```
 2. Config the database
 
